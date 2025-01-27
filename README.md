@@ -3,14 +3,12 @@
 🔬 Passionate about **AI, Web Development, and System Engineering**  
 ⚡ Always experimenting with **new tech stacks and problem-solving**  
 
----
 
 ### 💡 **What I Do**  
 💻 **Full Stack Development** – MERN Stack | React.js | Laravel  
 🤖 **AI & Intelligent Systems** – Exploring automation & smart solutions  
 🛠️ **Software Engineering** – JavaScript, Python, Java, C, PHP  
 
----
 
 ### 🚀 **Why You’ll Love Working with Me**  
 ☕ **Fueled by coffee & curiosity** – I live to solve complex problems  
@@ -18,7 +16,6 @@
 🤝 **Open to exciting collaborations** – Let’s build something awesome  
 🧠 **Love discussing AI, innovation, and all things tech**  
 
----
 
 💬 **Let’s Connect & Build the Future Together!** 🚀
 
